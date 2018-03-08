@@ -1,0 +1,12 @@
+PODS:
+  - cp-sample-model (1.0.3)
+
+DEPENDENCIES:
+  - cp-sample-model (= 1.0.3)
+
+SPEC CHECKSUMS:
+  cp-sample-model: bbfe152b5624355885ca212d27c4b2d151ff8158
+
+PODFILE CHECKSUM: af49849b8f1ad79d137cd9673156e3b4da91a8d8
+
+COCOAPODS: 1.4.0
