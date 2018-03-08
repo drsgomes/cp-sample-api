@@ -11,6 +11,7 @@
 		99007EDD20503545003479C6 /* cp_sample_api.h in Headers */ = {isa = PBXBuildFile; fileRef = 99007ECF20503544003479C6 /* cp_sample_api.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9939554C205179B900D3A662 /* UserApiTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9939554B205179B900D3A662 /* UserApiTest.swift */; };
 		9939555220517B7500D3A662 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 9939555120517B7500D3A662 /* Podfile */; };
+		9939555420517CF700D3A662 /* cp-sample-api.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 9939555320517CF700D3A662 /* cp-sample-api.podspec */; };
 		99C6D081205155DD00DCEBF7 /* UserAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99C6D080205155DD00DCEBF7 /* UserAPI.swift */; };
 		D706082969D3630FCBD19576 /* Pods_cp_sample_api.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F80A0AC85F2D231B0E724D5B /* Pods_cp_sample_api.framework */; };
 		FA28C21C3E11C5920AFDDB46 /* Pods_cp_sample_apiTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A6E198C42396B52AE109B23A /* Pods_cp_sample_apiTests.framework */; };
@@ -36,6 +37,7 @@
 		99007EDC20503545003479C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9939554B205179B900D3A662 /* UserApiTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserApiTest.swift; sourceTree = "<group>"; };
 		9939555120517B7500D3A662 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		9939555320517CF700D3A662 /* cp-sample-api.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "cp-sample-api.podspec"; sourceTree = "<group>"; };
 		99C6D080205155DD00DCEBF7 /* UserAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserAPI.swift; sourceTree = "<group>"; };
 		A6E198C42396B52AE109B23A /* Pods_cp_sample_apiTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_cp_sample_apiTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B037C3C0F1504736AA9B953E /* Pods-cp-sample-api.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cp-sample-api.release.xcconfig"; path = "Pods/Target Support Files/Pods-cp-sample-api/Pods-cp-sample-api.release.xcconfig"; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 		99007EC220503544003479C6 = {
 			isa = PBXGroup;
 			children = (
+				9939555320517CF700D3A662 /* cp-sample-api.podspec */,
 				9939555120517B7500D3A662 /* Podfile */,
 				99007ECE20503544003479C6 /* cp-sample-api */,
 				99007ED920503545003479C6 /* cp-sample-apiTests */,
@@ -223,6 +226,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9939555420517CF700D3A662 /* cp-sample-api.podspec in Resources */,
 				9939555220517B7500D3A662 /* Podfile in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
