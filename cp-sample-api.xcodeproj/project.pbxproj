@@ -36,7 +36,7 @@
 		99007ED520503545003479C6 /* cp-sample-apiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "cp-sample-apiTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		99007EDC20503545003479C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9939554B205179B900D3A662 /* UserApiTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserApiTest.swift; sourceTree = "<group>"; };
-		9939555120517B7500D3A662 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		9939555120517B7500D3A662 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9939555320517CF700D3A662 /* cp-sample-api.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "cp-sample-api.podspec"; sourceTree = "<group>"; };
 		99C6D080205155DD00DCEBF7 /* UserAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserAPI.swift; sourceTree = "<group>"; };
 		A6E198C42396B52AE109B23A /* Pods_cp_sample_apiTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_cp_sample_apiTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };

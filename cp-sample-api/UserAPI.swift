@@ -9,9 +9,9 @@
 import UIKit
 import cp_sample_model
 
-class UserAPI: NSObject {
+public class UserAPI: NSObject {
 
-    func retrieveUsers() -> [User]{
+    public func retrieveUsers() -> [User]{
         var users : [User] = []
         
         for i in 1...10 {
